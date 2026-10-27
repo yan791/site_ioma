@@ -1,0 +1,266 @@
+{
+ "protocolo-antes": [
+  {
+   "src": "img/protocolo-antes-640.webp",
+   "w": 640,
+   "h": 368
+  },
+  {
+   "src": "img/protocolo-antes-1026.webp",
+   "w": 1026,
+   "h": 590
+  }
+ ],
+ "protocolo-depois": [
+  {
+   "src": "img/protocolo-depois-640.webp",
+   "w": 640,
+   "h": 368
+  },
+  {
+   "src": "img/protocolo-depois-1026.webp",
+   "w": 1026,
+   "h": 590
+  }
+ ],
+ "provisorio-antes": [
+  {
+   "src": "img/provisorio-antes-640.webp",
+   "w": 640,
+   "h": 329
+  },
+  {
+   "src": "img/provisorio-antes-1200.webp",
+   "w": 1200,
+   "h": 617
+  }
+ ],
+ "provisorio-depois": [
+  {
+   "src": "img/provisorio-depois-640.webp",
+   "w": 640,
+   "h": 329
+  },
+  {
+   "src": "img/provisorio-depois-1200.webp",
+   "w": 1200,
+   "h": 617
+  }
+ ],
+ "coroa-antes": [
+  {
+   "src": "img/coroa-antes-640.webp",
+   "w": 640,
+   "h": 304
+  },
+  {
+   "src": "img/coroa-antes-1200.webp",
+   "w": 1200,
+   "h": 570
+  }
+ ],
+ "coroa-depois": [
+  {
+   "src": "img/coroa-depois-640.webp",
+   "w": 640,
+   "h": 304
+  },
+  {
+   "src": "img/coroa-depois-1200.webp",
+   "w": 1200,
+   "h": 570
+  }
+ ],
+ "fratura-antes": [
+  {
+   "src": "img/fratura-antes-640.webp",
+   "w": 640,
+   "h": 288
+  },
+  {
+   "src": "img/fratura-antes-1200.webp",
+   "w": 1200,
+   "h": 540
+  }
+ ],
+ "fratura-depois": [
+  {
+   "src": "img/fratura-depois-640.webp",
+   "w": 640,
+   "h": 288
+  },
+  {
+   "src": "img/fratura-depois-1200.webp",
+   "w": 1200,
+   "h": 540
+  }
+ ],
+ "acrescimos-antes": [
+  {
+   "src": "img/acrescimos-antes-640.webp",
+   "w": 640,
+   "h": 304
+  },
+  {
+   "src": "img/acrescimos-antes-1080.webp",
+   "w": 1080,
+   "h": 513
+  }
+ ],
+ "acrescimos-depois": [
+  {
+   "src": "img/acrescimos-depois-640.webp",
+   "w": 640,
+   "h": 304
+  },
+  {
+   "src": "img/acrescimos-depois-1080.webp",
+   "w": 1080,
+   "h": 513
+  }
+ ],
+ "dr-guilherme": [
+  {
+   "src": "img/dr-guilherme-520.webp",
+   "w": 520,
+   "h": 555
+  },
+  {
+   "src": "img/dr-guilherme-960.webp",
+   "w": 960,
+   "h": 1024
+  }
+ ],
+ "dr-guilherme-caso": [
+  {
+   "src": "img/dr-guilherme-caso-520.webp",
+   "w": 520,
+   "h": 610
+  },
+  {
+   "src": "img/dr-guilherme-caso-960.webp",
+   "w": 960,
+   "h": 1126
+  }
+ ],
+ "dr-gui-cafe": [
+  {
+   "src": "img/dr-gui-cafe-480.webp",
+   "w": 480,
+   "h": 512
+  },
+  {
+   "src": "img/dr-gui-cafe-720.webp",
+   "w": 720,
+   "h": 768
+  }
+ ],
+ "dra-julia": [
+  {
+   "src": "img/dra-julia-480.webp",
+   "w": 480,
+   "h": 435
+  },
+  {
+   "src": "img/dra-julia-860.webp",
+   "w": 860,
+   "h": 780
+  }
+ ],
+ "vaneide": [
+  {
+   "src": "img/vaneide-480.webp",
+   "w": 480,
+   "h": 461
+  },
+  {
+   "src": "img/vaneide-860.webp",
+   "w": 860,
+   "h": 826
+  }
+ ],
+ "paciente-depoimento": [
+  {
+   "src": "img/paciente-depoimento-480.webp",
+   "w": 480,
+   "h": 606
+  },
+  {
+   "src": "img/paciente-depoimento-860.webp",
+   "w": 860,
+   "h": 1086
+  }
+ ],
+ "procedimento": [
+  {
+   "src": "img/procedimento-720.webp",
+   "w": 720,
+   "h": 473
+  },
+  {
+   "src": "img/procedimento-1320.webp",
+   "w": 1320,
+   "h": 868
+  }
+ ],
+ "consultorio-vista": [
+  {
+   "src": "img/consultorio-vista-640.webp",
+   "w": 640,
+   "h": 480
+  },
+  {
+   "src": "img/consultorio-vista-1360.webp",
+   "w": 1360,
+   "h": 1020
+  }
+ ],
+ "consultorio-bancada": [
+  {
+   "src": "img/consultorio-bancada-640.webp",
+   "w": 640,
+   "h": 480
+  },
+  {
+   "src": "img/consultorio-bancada-1360.webp",
+   "w": 1360,
+   "h": 1020
+  }
+ ],
+ "consultorio-anoitecer": [
+  {
+   "src": "img/consultorio-anoitecer-640.webp",
+   "w": 640,
+   "h": 384
+  },
+  {
+   "src": "img/consultorio-anoitecer-1360.webp",
+   "w": 1360,
+   "h": 816
+  }
+ ],
+ "recepcao": [
+  {
+   "src": "img/recepcao-640.webp",
+   "w": 640,
+   "h": 480
+  },
+  {
+   "src": "img/recepcao-1360.webp",
+   "w": 1360,
+   "h": 1020
+  }
+ ],
+ "consultorio-sala": [
+  {
+   "src": "img/consultorio-sala-720.webp",
+   "w": 720,
+   "h": 378
+  },
+  {
+   "src": "img/consultorio-sala-1360.webp",
+   "w": 1360,
+   "h": 714
+  }
+ ]
+}

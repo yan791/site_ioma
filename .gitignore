@@ -1,0 +1,17 @@
+# dependências e builds
+node_modules/
+site/dist/
+
+# material bruto (Instagram, Google, fotos do cliente, vídeo original) e saídas das ferramentas
+# ficam só no computador; o site usa as versões tratadas em site/public
+/material-instagram/
+/material-google/
+/fotos-consultorio/
+/video/
+ferramentas/shots/
+
+# anotações internas do projeto (o repositório é público)
+/PENDENCIAS.md
+
+*.log
+.DS_Store
